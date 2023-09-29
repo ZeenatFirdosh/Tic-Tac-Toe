@@ -1,6 +1,6 @@
 # Tic-Tac-Toe in React
 
-Live Demo: https://tic-tac-toe-main.netlify.app/
+## Live Demo: https://tic-tac-toe-main.netlify.app/
 
 ![image](https://github.com/ZeenatFirdosh/Tic-Tac-Toe/assets/100707152/cad527e9-7260-4c79-8ad4-616cdd8552c4)
 
